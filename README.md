@@ -1,7 +1,10 @@
 # asdf-clojure
 
-[Clojure](http://clojure.org) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager
+[Clojure](http://clojure.org) plugin for [asdf](https://github.com/asdf-vm/asdf) version manager.
 
+Requires `git`, `curl` and `java` installed.
+
+> Java can be installed with asdf java plugin as well
 
 ## Install
 
@@ -10,10 +13,6 @@ asdf plugin add clj https://github.com/yuhribernardes/asdf-clojure.git
 ```
 
 ## Requirements
-
-#### Java
-
-Java is required. It can be installed using the asdf java plugin.
 
 ## Use
 
