@@ -6,7 +6,7 @@
 ## Install
 
 ```shell
-asdf plugin-add clojure https://github.com/yuhribernardes/asdf-clojure.git
+asdf plugin add clojure https://github.com/yuhribernardes/asdf-clojure.git
 ```
 
 ## Requirements
